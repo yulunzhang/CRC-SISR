@@ -1,0 +1,15 @@
+MIKSVD
+tradeoff = 0.05
+Training [28 x 1024] dictionary on 315210 vectors using K-SVD
+Iteration 1 / 20 complete, RMSE = 0.02757
+Iteration 2 / 20 complete, RMSE = 0.02645
+Iteration 3 / 20 complete, RMSE = 0.02585
+Iteration 4 / 20 complete, RMSE = 0.02545
+Iteration 5 / 20 complete, RMSE = 0.02517
+Iteration 6 / 20 complete, RMSE = 0.02494
+Iteration 7 / 20 complete, RMSE = 0.02476
+Iteration 8 / 20 complete, RMSE = 0.0246
+Iteration 9 / 20 complete, RMSE = 0.02448
+Iteration 10 / 20 complete, RMSE = 0.02437
+Iteration 11 / 20 complete, RMSE = 0.02429
+Iteration 12 / 20 complete, RMSE = 0.02422
